@@ -32,3 +32,24 @@ This project analyses operational performance data using Microsoft Excel. The ob
 - Business Insight Development
 - Analytical Problem Solving
 - perfomance evaluation
+- ## Team Level Performance Analysis
+
+![Team Level Chart](Team levels bar chart .jpeg)
+
+This chart compares operational performance across different teams. It helps identify which teams are performing well and which may require operational improvements.
+
+---
+
+## Agent Level Performance Analysis
+
+![Agent Level Chart](Agent levels bar chart.jpeg)
+
+This visualization highlights the performance of individual agents. It helps identify top-performing agents and potential opportunities for performance improvement.
+
+---
+
+## Shift Level Performance Analysis
+
+![Shift Level Chart](Shifts levels bar chart.jpeg)
+
+This chart analyzes operational performance across different work shifts. It helps identify productivity patterns and possible inefficiencies during certain shifts.
